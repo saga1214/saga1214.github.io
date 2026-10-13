@@ -59,7 +59,7 @@ h2 { font-size: clamp(25px, 4vw, 31px); letter-spacing: -.4px; }
 .sub { color: var(--muted); margin: 10px 0 28px; }
 .ri-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 18px; }
 .ri-card { border: 2px solid var(--ink); border-radius: 15px; overflow: hidden; box-shadow: 4px 4px 0 var(--tint); background: #fff; }
-.ri-media { position: relative; background: #f4f8f5; border-bottom: 2px solid var(--ink); aspect-ratio: 1; display: flex; align-items: center; justify-content: center; }
+.ri-media { position: relative; background: #fafcfb; border-bottom: 2px solid var(--ink); aspect-ratio: 1; display: flex; align-items: center; justify-content: center; }
 .ri-media img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: contain; }
 .ri-body { padding: 18px; }
 .ri-body h3 { font-size: 18px; }
