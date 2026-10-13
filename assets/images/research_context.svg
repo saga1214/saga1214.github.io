@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="240" viewBox="0 0 240 240" fill="none">
+  <title>Relevant dialogue context guides the generated response</title>
+  <defs><marker id="arrow" markerWidth="7" markerHeight="7" refX="5" refY="3.5" orient="auto"><path d="M1 1L5 3.5L1 6" stroke="#2F6DB5" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></marker></defs>
+  <g stroke="#2F6DB5" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M23 19H105A6 6 0 0 1 111 25V45A6 6 0 0 1 105 51H36L24 58V51H23A6 6 0 0 1 17 45V25A6 6 0 0 1 23 19Z" stroke-opacity=".42"/>
+    <path d="M29 30H95M29 40H76" stroke-opacity=".42"/>
+    <path d="M23 66H105A6 6 0 0 1 111 72V92A6 6 0 0 1 105 98H36L24 105V98H23A6 6 0 0 1 17 92V72A6 6 0 0 1 23 66Z" fill="#E6EFFA"/>
+    <path d="M29 77H95M29 87H76"/>
+    <path d="M23 113H105A6 6 0 0 1 111 119V139A6 6 0 0 1 105 145H36L24 152V145H23A6 6 0 0 1 17 139V119A6 6 0 0 1 23 113Z" stroke-opacity=".42"/>
+    <path d="M29 124H95M29 134H76" stroke-opacity=".42"/>
+    <path d="M118 82H147" marker-end="url(#arrow)"/>
+    <circle cx="180" cy="82" r="26" fill="#FFF"/>
+    <path d="M167 93V74M180 96V68M193 90V76" stroke-width="2.5"/>
+    <circle cx="167" cy="82" r="3.5" fill="#F6F9FD"/><circle cx="180" cy="76" r="3.5" fill="#E6EFFA"/><circle cx="193" cy="84" r="3.5" fill="#F6F9FD"/>
+    <path d="M180 114V153" marker-end="url(#arrow)"/>
+    <path d="M91 162H213A7 7 0 0 1 220 169V209A7 7 0 0 1 213 216H190L201 227V216H91A7 7 0 0 1 84 209V169A7 7 0 0 1 91 162Z" fill="#FFF"/>
+    <path d="M98 177H151M98 188H143"/>
+    <path d="M99 202L104 206L114 196" stroke-width="2.2"/>
+    <path d="M166 184V199M174 177V206M182 172V211M190 181V202M198 185V198"/>
+  </g>
+</svg>
