@@ -1,6 +1,7 @@
 # Che Hyun Lee
 
 개인 학술 홈페이지: [saga1214.github.io](https://saga1214.github.io/)
+Last Update: 2026.10.13
 
 ## 로컬 실행
 
